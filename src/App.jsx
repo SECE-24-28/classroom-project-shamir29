@@ -1,15 +1,9 @@
 import "./App.css";
-import FlexBoxComponent from "./flex-box/flex-box-component";
-import HelloWorldComponent from "./hello-world/hello-world-component";
-import LeadersTomorrowComponent from "./leaders-tomorrow/leaders-tomorrow-component";
+import AboutSection from "./symbol/symbol.jsx";
 
 function App() {
   return (
-    <div>
-      {/* <HelloWorldComponent /> */}
-      {/* <FlexBoxComponent /> */}
-      <LeadersTomorrowComponent />
-    </div>
+    <AboutSection/>
   );
 }
 

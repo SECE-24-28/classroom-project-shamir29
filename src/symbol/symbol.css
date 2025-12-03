@@ -1,0 +1,21 @@
+.about-container {
+  width: 100%;
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f8f9fa;
+}
+
+.about-title {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #000;
+}
+
+.about-text {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 20px;
+  line-height: 1.7;
+  color: #495057;
+}
