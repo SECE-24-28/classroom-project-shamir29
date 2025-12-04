@@ -21,7 +21,7 @@ const AboutSection = () => {
           <div className="vision-section">
             <div className="section-content">
               <h1 className="about-subtitle">
-                |Our Vision
+                | Our Vision
               </h1>
               <p className="about-description">
                Our vision is to empower individuals from diverse backgrounds to become accomplished professionals. 
@@ -33,14 +33,22 @@ const AboutSection = () => {
           <div className="mission-section">
             <div className="section-content">
               <h1 className="about-mission">
-                |Our Mission
+                | Our Mission
               </h1>
               <p className="about-mission-text">
                 Our mission is to revolutionize education by providing comprehensive training in aptitude, coding, and web/mobile development.
                  We foster a culture of inclusivity and personal growth.
               </p>
+              
             </div>
           </div>
+        </div>
+        
+        <div className="courses-section">
+          <h1 className="courses">Our Courses</h1>
+          <p className="courses-text">
+            Discover our comprehensive range of courses designed to enhance your skills and prepare you for success in your career.
+          </p>
         </div>
       </section>
     </SymbolStyle>

@@ -100,6 +100,28 @@ export const SymbolStyle = styled.div`
     color: rgb(86, 102, 131);
     text-align: center;
   }
+  .courses-section {
+    margin-top: 80px;
+    text-align: center;
+  }
+  
+  .courses {
+    font-weight: 600;
+    font-size: 48px;
+    text-align: center;
+    font-family: "Work Sans", sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .courses-text {
+    font-size: 18px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+    color: rgb(86, 102, 131);
+    max-width: 700px;
+  }
 
 
 `;
